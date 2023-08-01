@@ -15,7 +15,7 @@ $ pip install venv
 $ python -m venv pypdf-venv
 
 $ cd pypdf-venv
-$ /bin/activate
+$ . bin/activate
 
 $ pip install -r requirements.txt
 $ python ../getvndrate.py
