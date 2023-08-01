@@ -14,7 +14,8 @@ How to use it?
 $ pip install venv
 $ python -m venv pypdf-venv
 
-$ cd pypdf-venv
+
+$ cd pythonPDF/pypdf-venv
 $ . bin/activate
 
 $ pip install -r requirements.txt
