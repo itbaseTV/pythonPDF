@@ -11,12 +11,7 @@ The script runs as flow:
 
 How to use it?
 
-$ pip install venv
-$ python -m venv pypdf-venv
+$ cd pythonPDF
+$ . pypdf/bin/activate
 
-
-$ cd pythonPDF/pypdf-venv
-$ . bin/activate
-
-$ pip install -r requirements.txt
-$ python ../getvndrate.py
+$ python getvndrate.py
